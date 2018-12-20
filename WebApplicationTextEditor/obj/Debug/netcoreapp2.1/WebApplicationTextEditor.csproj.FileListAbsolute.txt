@@ -1,0 +1,14 @@
+C:\Users\marzian\source\repos\WebApplicationTextEditor\WebApplicationTextEditor\bin\Debug\netcoreapp2.1\WebApplicationTextEditor.deps.json
+C:\Users\marzian\source\repos\WebApplicationTextEditor\WebApplicationTextEditor\bin\Debug\netcoreapp2.1\WebApplicationTextEditor.runtimeconfig.json
+C:\Users\marzian\source\repos\WebApplicationTextEditor\WebApplicationTextEditor\bin\Debug\netcoreapp2.1\WebApplicationTextEditor.runtimeconfig.dev.json
+C:\Users\marzian\source\repos\WebApplicationTextEditor\WebApplicationTextEditor\bin\Debug\netcoreapp2.1\WebApplicationTextEditor.dll
+C:\Users\marzian\source\repos\WebApplicationTextEditor\WebApplicationTextEditor\bin\Debug\netcoreapp2.1\WebApplicationTextEditor.pdb
+C:\Users\marzian\source\repos\WebApplicationTextEditor\WebApplicationTextEditor\obj\Debug\netcoreapp2.1\WebApplicationTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\marzian\source\repos\WebApplicationTextEditor\WebApplicationTextEditor\obj\Debug\netcoreapp2.1\WebApplicationTextEditor.RazorAssemblyInfo.cache
+C:\Users\marzian\source\repos\WebApplicationTextEditor\WebApplicationTextEditor\obj\Debug\netcoreapp2.1\WebApplicationTextEditor.RazorAssemblyInfo.cs
+C:\Users\marzian\source\repos\WebApplicationTextEditor\WebApplicationTextEditor\obj\Debug\netcoreapp2.1\WebApplicationTextEditor.AssemblyInfoInputs.cache
+C:\Users\marzian\source\repos\WebApplicationTextEditor\WebApplicationTextEditor\obj\Debug\netcoreapp2.1\WebApplicationTextEditor.AssemblyInfo.cs
+C:\Users\marzian\source\repos\WebApplicationTextEditor\WebApplicationTextEditor\obj\Debug\netcoreapp2.1\WebApplicationTextEditor.RazorTargetAssemblyInfo.cache
+C:\Users\marzian\source\repos\WebApplicationTextEditor\WebApplicationTextEditor\obj\Debug\netcoreapp2.1\WebApplicationTextEditor.dll
+C:\Users\marzian\source\repos\WebApplicationTextEditor\WebApplicationTextEditor\obj\Debug\netcoreapp2.1\WebApplicationTextEditor.pdb
+C:\Users\marzian\source\repos\WebApplicationTextEditor\WebApplicationTextEditor\obj\Debug\netcoreapp2.1\WebApplicationTextEditor.csprojAssemblyReference.cache
